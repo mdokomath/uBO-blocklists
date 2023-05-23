@@ -1,0 +1,79 @@
+! index.hr !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.index.hr##.media-1024.secondary-content-bg.main-container.plus-categories-holder > .main-content-bg.cube-holder-lajk
+www.index.hr##div.flex.cubes > .main-content-bg.cube-holder-oglasi
+www.index.hr##div.flex.cubes > .main-content-bg.cube-holder-recepti
+www.index.hr##.dark-content-bg.cube-holder-video.cube-plus-holder
+www.index.hr##div.main-content-bg.cube-plus-holder:nth-of-type(1)
+www.index.hr##div.main-content-bg.cube-plus-holder:nth-of-type(2)
+www.index.hr##.media-1024.secondary-content-bg.main-container.plus-categories-holder
+www.index.hr##.flex.list-holder
+www.index.hr##.clearfix.main-content-bg.main-container.main-footer
+www.index.hr##div[data-category-change="magazin"]
+www.index.hr##div.main-category-container:has(a.magazin-text-hover)
+www.index.hr##.plus-categories-container
+www.index.hr##.main-content-bg.featured-container
+www.index.hr##.secondary-content-bg-light.promo-holder
+www.index.hr##.magazin-text-hover.expandable
+www.index.hr##.clearfix.menu-holder > ul > li > .oglasi-text-hover
+www.index.hr##.clearfix.menu-holder > ul > li > .recepti-text-hover
+www.index.hr##.expandable
+www.index.hr##.separator.login-btn
+www.index.hr##.btn-open-search.menu-icon
+www.index.hr##.portal-comments-container
+||www.index.hr/embed/carousel/103?countUpImpression=True$subdocument
+||www.index.hr/embed/carousel/$subdocument
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! Telegram & Telesport !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.telegram.hr##.relative.pretplata-new-promo.bottom-pretplata-promo.dark-element.full
+www.telegram.hr##.animate.flex.full > .center.mobile-side-pad.subheader.full
+www.telegram.hr##div.desktop-only.flex > .newbtn
+www.telegram.hr##.telegram-sticky.center.mobile-side-pad.sticky-subheader.subheader.full
+www.telegram.hr##.mini-pretplata-new.mini-pretplata.relative.stretch.flex.full
+www.telegram.hr##.article-head-newsletter.relative.full
+www.telegram.hr###coral_thread > div
+www.telegram.hr##.relative.bottom-pretplata-promo.dark-element.full
+www.telegram.hr##.relative.flex.full > .mobile-side-pad.flex.full
+www.telegram.hr##.social-circle-buttons.float-right.flex
+www.telegram.hr##.os-sticky.center.mobile-side-pad.sticky-subheader.subheader.full
+telesport.telegram.hr##.pretplata-ticker.mini-pretplata-widget.full
+telesport.telegram.hr##li.anim.sub-btn:nth-of-type(2)
+telesport.telegram.hr##li.anim.alt-sub-btn.sub-btn:nth-of-type(3)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! Slobodna Dalmacija !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! hide promo "articles"
+slobodnadalmacija.hr##article:has-text(Promo)
+! hide premium articles
+slobodnadalmacija.hr##.nav-link.nav__link-premium.nav__link
+slobodnadalmacija.hr##article:has-text(PREMIUM)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! monitor.hr !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! hide sponsored "articles"
+monitor.hr##article:has-text(Sponzorirana vijest)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! Dalmatinski Portal !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+||dalmatinskiportal.hr/getBanner/*$xhr,1p
+dalmatinskiportal.hr##.accept-cookies-modal
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! rezultati.com !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.rezultati.com##.otPlaceholder
+www.rezultati.com###box_over_content_12203 > .boxOverContent__banner
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+! zakon.hr !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.zakon.hr##.preuzmi
+||www.zakon.hr/files/media/Nagradni%20natjecaj.jpg$image
+||www.zakon.hr/files/media/ZEISS.JPG$image
+||www.zakon.hr/files/media/Nagradni%20natjecaj.jpg$image
+||www.zakon.hr/files/media/ZEISS.JPG$image
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
