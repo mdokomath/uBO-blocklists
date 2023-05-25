@@ -52,6 +52,7 @@ slobodnadalmacija.hr##article:has-text(Promo)
 ! hide premium articles
 slobodnadalmacija.hr##.nav-link.nav__link-premium.nav__link
 slobodnadalmacija.hr##article:has-text(PREMIUM)
+slobodnadalmacija.hr##.row--back.row
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
