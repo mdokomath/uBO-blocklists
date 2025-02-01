@@ -40,9 +40,7 @@ www.telegram.hr##.relative.bottom-pretplata-promo.dark-element.full
 www.telegram.hr##.relative.flex.full > .mobile-side-pad.flex.full
 www.telegram.hr##.social-circle-buttons.float-right.flex
 www.telegram.hr##.os-sticky.center.mobile-side-pad.sticky-subheader.subheader.full
-telesport.telegram.hr##.pretplata-ticker.mini-pretplata-widget.full
-telesport.telegram.hr##li.anim.sub-btn:nth-of-type(2)
-telesport.telegram.hr##li.anim.alt-sub-btn.sub-btn:nth-of-type(3)
+campaign.telegram.hr
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
